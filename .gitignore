@@ -1,1 +1,6 @@
 food101
+machine_learning/__pycache__/helper_functions.cpython-310.pyc
+machine_learning/food_vision_challenge/feature_extraction/
+machine_learning/food_vision_challenge/fine_tuning
+machine_learning/model_checkpoints/
+machine_learning/model_checkpoints_fine_tuning/
